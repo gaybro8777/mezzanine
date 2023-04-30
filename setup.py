@@ -57,7 +57,7 @@ try:
             "bleach >= 1.4",
             "requests >= 2.1.0",
             "requests-oauthlib >= 0.4",
-            "future == 0.9.0",
+            "future == 0.18.3",
             "pillow",
         ],
         entry_points="""
